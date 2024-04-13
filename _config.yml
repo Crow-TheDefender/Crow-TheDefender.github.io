@@ -108,7 +108,7 @@ author:
   avatar           : /assets/images/bio-photo.jpg
   bio              : Defensive Cyber Security Analyst looking to explore.
   location         : "Somewhere"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
