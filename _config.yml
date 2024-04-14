@@ -16,11 +16,11 @@ minimal_mistakes_skin    : dark # "air", "aqua", "contrast", "dark", "dirt", "ne
 
 # Site Settings
 locale                   : "en-US"
-title                    : Crow - The Defender
+title                    : Crow
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : The Defender
 name                     : 
-description              : "An amazing website."
+description              : Defensive Cyber Security Analyst looking to learn and explore.
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : Crow
   avatar           : /assets/images/bio-photo.jpg
-  bio              : Defensive Cyber Security Analyst looking to explore.
+  bio              : Defensive Cyber Security Analyst looking to learn and explore.
   location         : "Somewhere"
   email            : 
   links:
@@ -204,7 +204,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Sydney
 
 
 # Plugins (previously gems:)
