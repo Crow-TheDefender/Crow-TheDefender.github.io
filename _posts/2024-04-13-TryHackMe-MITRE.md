@@ -76,7 +76,7 @@ This room is broken down into 9 tasks, but only 6 of these tasks require you to 
 
 After providing details relating to a specific framework (task), it will ask you to answer some questions which will require you to navigate through the various frameworks mentioned above. An example of the formatting can be seen below.
 
-![MITRE Question Example](/assets/images/Blog Images/THM-MITRE.png)
+![MITRE Question Example](/assets/images/BlogPosts/THM-MITRE.png)
 
 ## Conclusion
 
