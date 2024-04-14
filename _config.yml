@@ -16,9 +16,9 @@ minimal_mistakes_skin    : dark # "air", "aqua", "contrast", "dark", "dirt", "ne
 
 # Site Settings
 locale                   : "en-US"
-title                    : Crow
+title                    : Crow - The Defender
 title_separator          : "-"
-subtitle                 : The Defender
+subtitle                 : 
 name                     : 
 description              : Defensive Cyber Security Analyst looking to learn and explore.
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
